@@ -1,0 +1,1 @@
+bash <(wget -qO- 'https://wisp.gg/install?license_key=77C298479C34648393463BDCB3E9C4E2&instance_url=https%3A%2F%2Fportal.xenonhosting.org')
